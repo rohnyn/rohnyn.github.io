@@ -22,5 +22,5 @@ Your data is yours, not a company's asset. You should own and control what you g
 The best solutions emerge from transparency and distributed innovation, not proprietary gatekeeping.
 
 
-# Open Systems
+# Trustless Systems
 Good design eliminates the need for trust. I favor mechanisms with built-in verification over those requiring faith in institutions or individuals.
